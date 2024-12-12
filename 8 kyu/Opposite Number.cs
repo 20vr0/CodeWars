@@ -10,7 +10,7 @@ public class Kata
           }
           else
           {
-           return number = number + (2*number); 
+           return number = number + (-2*number); 
           }
         }
     }
